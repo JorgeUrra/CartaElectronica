@@ -1,0 +1,317 @@
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\ApplicationInsights.config
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\roslyn\csc.exe
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\roslyn\vbc.exe
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Carta_Electronica.dll.config
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Carta_Electronica.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Carta_Electronica.pdb
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Antlr3.Runtime.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\EntityFramework.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\EntityFramework.SqlServer.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.Web.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Newtonsoft.Json.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Owin.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\System.Web.Helpers.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\System.Web.Mvc.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\System.Web.Optimization.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\System.Web.Razor.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\WebGrease.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.Web.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\System.Web.Helpers.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\System.Web.Mvc.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\System.Web.Optimization.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\System.Web.Razor.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Antlr3.Runtime.pdb
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Newtonsoft.Json.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\EntityFramework.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\EntityFramework.SqlServer.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\EntityFramework.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\obj\Debug\Carta_Electronica.csprojResolveAssemblyReference.cache
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\obj\Debug\Carta_Electronica.dll
+C:\Users\Jorjole\Documents\Visual Studio 2015\Projects\Carta_Electronica\Carta_Electronica\obj\Debug\Carta_Electronica.pdb
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\ApplicationInsights.config
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\csc.exe
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\vbc.exe
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\VBCSCompiler.exe
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Carta_Electronica.dll.config
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Carta_Electronica.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Carta_Electronica.pdb
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Antlr3.Runtime.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\EntityFramework.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\EntityFramework.SqlServer.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.Web.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.ApplicationInsights.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Newtonsoft.Json.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Owin.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.Helpers.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.Mvc.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.Optimization.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.Razor.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.Deployment.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.Razor.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\WebGrease.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.Web.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.ApplicationInsights.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.Helpers.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.Mvc.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.Optimization.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.Razor.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.Deployment.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.Razor.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Antlr3.Runtime.pdb
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Newtonsoft.Json.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\EntityFramework.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\EntityFramework.SqlServer.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\System.Web.Helpers.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\System.Web.Mvc.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\System.Web.Optimization.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\System.Web.Razor.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\System.Web.WebPages.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\EntityFramework.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\obj\Debug\Carta_Electronica.csprojResolveAssemblyReference.cache
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\obj\Debug\Carta_Electronica.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\obj\Debug\Carta_Electronica.pdb
+C:\Users\matias-pc\Documents\Carta_Electronica\Carta_Electronica\obj\Debug\Carta_Electronica.csprojResolveAssemblyReference.cache
+C:\Users\matias-pc\Documents\Carta_Electronica\Carta_Electronica\obj\Debug\Carta_Electronica.dll
+C:\Users\matias-pc\Documents\Carta_Electronica\Carta_Electronica\obj\Debug\Carta_Electronica.pdb
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\DBproyecto.mdf
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\DBproyecto_log.ldf
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\capaDatos.dll
+C:\Users\matias-pc\Desktop\Carta_Electronica\Carta_Electronica\bin\capaDatos.pdb
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\ApplicationInsights.config
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\csc.exe
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\vbc.exe
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\DBproyecto.mdf
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\DBproyecto_log.ldf
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Carta_Electronica.dll.config
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Carta_Electronica.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Carta_Electronica.pdb
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Antlr3.Runtime.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\capaDatos.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\EntityFramework.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\EntityFramework.SqlServer.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.Web.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Newtonsoft.Json.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Owin.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.Helpers.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.Mvc.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.Optimization.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.Razor.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\WebGrease.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\capaDatos.pdb
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\capaDatos.dll.config
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.Web.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.Helpers.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.Mvc.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.Optimization.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.Razor.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Antlr3.Runtime.pdb
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Newtonsoft.Json.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\EntityFramework.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\EntityFramework.SqlServer.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\EntityFramework.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\obj\Debug\Carta_Electronica.csprojAssemblyReference.cache
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\obj\Debug\Carta_Electronica.csproj.CoreCompileInputs.cache
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\obj\Debug\Carta_Electronica.csproj.CopyComplete
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\obj\Debug\Carta_Electronica.dll
+C:\Users\Jorjole\Desktop\Carta_Electronica\Carta_Electronica\obj\Debug\Carta_Electronica.pdb
